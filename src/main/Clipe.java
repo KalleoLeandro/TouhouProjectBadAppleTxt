@@ -171,5 +171,6 @@ public class Clipe
 		
 		//Uma pequena exibição visual de fim de vídeo		
 		JOptionPane.showMessageDialog(null, "FIM", "Touhou Project", JOptionPane.PLAIN_MESSAGE);
+		System.exit(0);
 	}
 }
